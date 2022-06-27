@@ -11,7 +11,7 @@
     "test": "jest --coverage"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "7.17.12",
+    "@babel/preset-typescript": "7.18.6",
     "@lottiefiles/lottie-player": "1.5.7",
     "@sveltejs/vite-plugin-svelte": "1.0.0-next.47",
     "@testing-library/jest-dom": "5.16.4",
